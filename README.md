@@ -181,6 +181,10 @@ currently_exploring:
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biradarsrikanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/biradarsrikanth/biradarsrikanth/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
