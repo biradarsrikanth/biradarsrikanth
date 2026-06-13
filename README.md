@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%26%20IT-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%26%20IT-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-8.63-9333EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MLRIT-Hyderabad-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
@@ -52,37 +52,42 @@ currently_exploring:
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-9333EA?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+
+<br/><br/>
 
 **Backend & Frameworks**
 <br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6D28D9?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-7C3AED?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-9333EA?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-A855F7?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactJS-6366F1?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/NodeJS-4F46E5?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,express" />
+
+<br/><br/>
 
 **ML / Data**
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
 
-**Databases & Tools**
+<br/><br/>
+
+**Databases, DevOps & Tooling**
 <br/>
-<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-9333EA?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,maven,aws" />
 
 </div>
+
+<br/>
+
+### 🧠 Core Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Backend Development | Advanced | Spring Boot, Spring MVC, REST controllers, layered service architecture |
+| Microservices & APIs | Advanced | FastAPI + Spring Boot inter-service communication over REST |
+| OOP & Design Patterns | Advanced | SOLID principles, Strategy pattern, modular architecture |
+| Databases | Experienced | MySQL schema design, normalised data models, SQL aggregations |
+| Security | Experienced | Role-based access, Spring Security filter chain, stateless JWT auth |
+| Machine Learning | Intermediate | Scikit-learn pipelines, SMOTE, model evaluation, feature engineering |
+| DevOps & CI/CD | Intermediate | Git, GitHub, Maven, static analysis in CI/CD pipelines |
+| Cloud | Certified | AWS |
 
 ---
 
@@ -100,6 +105,99 @@ currently_exploring:
 - 🔐 Role-based access (engineer / manager / admin) enforced via Spring Security filter chain with stateless JWT auth
 
 **Stack:** `Java` `Spring Boot` `Spring MVC` `FastAPI` `REST APIs` `JWT` `JavaParser` `Tree-sitter`
+
+<a href="https://github.com/biradarsrikanth/Fairness-Checker"><img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</details>
+
+<details>
+<summary><b>💸 Transaction Reconciliation Engine</b></summary>
+<br/>
+
+> A modular Java engine that automatically detects and resolves discrepancies across thousands of financial transactions.
+
+- 🗄️ Normalised MySQL schema detecting 3 discrepancy types (amount mismatch, duplicate, missing entry) across 5K+ transactions per run
+- 🧩 Modular parser / validator / resolver components built with the Strategy pattern for plug-in rule extensions
+- ⚙️ 95% of flagged records auto-resolved via configurable tolerance thresholds — cutting manual audit time from hours to minutes
+- 📊 Parameterised SQL aggregation queries powering audit-trail reports by date, counterparty, and discrepancy type
+
+**Stack:** `Java` `SQL` `MySQL` `OOP` `Strategy Pattern`
+
+<a href="https://github.com/biradarsrikanth/reconsile"><img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</details>
+
+<details>
+<summary><b>📉 Customer Churn Prediction System</b></summary>
+<br/>
+
+> An end-to-end ML pipeline that scores customer churn risk in real time via a lightweight API.
+
+- 🔄 Full pipeline — ingestion, feature engineering, training & evaluation — on 10K+ customer records with Scikit-learn
+- ⚡ Optimised SQL aggregations for feature extraction (tenure buckets, usage ratios, billing patterns), cutting preprocessing time by 40%
+- 🎯 SMOTE oversampling + threshold tuning reduced false negatives by 15%, reaching 82% accuracy (Random Forest, cross-validated)
+- 🔌 Predictions exposed via FastAPI for real-time CRM dashboard integration
+
+**Stack:** `Python` `SQL` `Scikit-learn` `SMOTE` `FastAPI`
+
+<a href="https://github.com/biradarsrikanth/Customer_Churn_Prediction"><img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</details>
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IBM-Applied%20Data%20Science%20w%2F%20Python%20L2-7C3AED?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Programming%20with%20Generative%20AI-6D28D9?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-9333EA?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+---
+
+### 🏆 Achievements & Engagements
+
+- 🎤 **TEDx MLRIT 2024** — Core organizer for a licensed TED event (150–200 attendees); led end-to-end planning, speaker coordination & on-ground execution
+- 🥈 **Metaloop 2023** — 2nd Place in a 24-hour AR/VR hackathon, delivering a full working prototype under tight time constraints
+- 📦 **Club Literati, MLRIT** — Logistics Associate (2024–Present): managed procurement for 10+ annual events at 98% stock accuracy, helped drive a 30% YoY rise in sponsorships, and mentored junior associates
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=biradarsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarsrikanth&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biradarsrikanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 Let's Connect
+
+<a href="https://linkedin.com/in/biradarsrikanth"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:srikanth.work.at@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/biradarsrikanth"><img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
 
 <a href="https://github.com/biradarsrikanth/Fairness-Checker"><img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
