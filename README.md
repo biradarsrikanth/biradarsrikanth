@@ -19,7 +19,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/biradarsrikanth"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:srikanth.work.at@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+919491969133"><img src="https://img.shields.io/badge/Call-A855F7?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
