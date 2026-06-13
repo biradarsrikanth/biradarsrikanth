@@ -180,9 +180,6 @@ currently_exploring:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarsrikanth&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA"/>
 
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biradarsrikanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/biradarsrikanth/biradarsrikanth/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -201,11 +198,5 @@ currently_exploring:
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-
-
-</div>
-
----
 
 </div>
