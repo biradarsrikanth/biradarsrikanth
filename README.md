@@ -166,35 +166,24 @@ currently_exploring:
 </div>
 
 ---
-
-### 📊 GitHub Analytics
-
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=biradarsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=biradarsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-/>
+<br/>
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarsrikanth&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA"/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=biradarsrikanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"
-/>
+<br/>
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biradarsrikanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
 
-<img
-  src="https://raw.githubusercontent.com/biradarsrikanth/biradarsrikanth/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub contribution snake"
-/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/biradarsrikanth/biradarsrikanth/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
