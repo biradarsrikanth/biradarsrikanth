@@ -171,11 +171,12 @@ currently_exploring:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=biradarsrikanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarsrikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarsrikanth&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA"/>
+<img src="https://streak-stats.demolab.com/?user=biradarsrikanth&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA"/>
 
 <br/>
 
